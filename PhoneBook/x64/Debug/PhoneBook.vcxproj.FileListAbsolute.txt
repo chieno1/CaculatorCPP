@@ -1,0 +1,3 @@
+D:\PhoneBook\PhoneBook\x64\Debug\PhoneBook.vcxproj.AssemblyReference.cache
+D:\PhoneBook\PhoneBook\x64\Debug\PhoneBook.MyForm.resources
+D:\PhoneBook\PhoneBook\x64\Debug\PhoneBook.vcxproj.GenerateResource.cache

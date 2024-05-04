@@ -1,0 +1,21 @@
+﻿  MyForm.cpp
+D:\PhoneBook\PhoneBook\MyForm.h(479,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\PhoneBook\PhoneBook\MyForm.h(490,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\PhoneBook\PhoneBook\MyForm.h(508,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\PhoneBook\PhoneBook\MyForm.h(519,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\PhoneBook\PhoneBook\MyForm.h(530,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+D:\PhoneBook\PhoneBook\MyForm.h(541,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  PhoneBook.vcxproj -> D:\PhoneBook\x64\Debug\PhoneBook.exe
